@@ -1,0 +1,375 @@
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\KanbanBoard.exe
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\KanbanBoard.deps.json
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.json
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.csprojAssemblyReference.cache
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.xml
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CopyComplete
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\obj\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SSIVALAS\Desktop\KanbanBoard\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.exe
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.deps.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csprojAssemblyReference.cache
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.xml
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CopyComplete
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\angular.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package-lock.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.app.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.spec.json
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LCHAKKA\Documents\GitHub\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csprojAssemblyReference.cache
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.xml
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\SSIVALAS\Downloads\KanbanBoardProject (1)\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csprojAssemblyReference.cache
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.xml
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\angular.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package-lock.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.app.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.spec.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.exe
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.deps.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\LCHAKKA\Downloads\KanbanBoardProject\KanbanBoardProject\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CopyComplete
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\angular.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package-lock.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.app.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.spec.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.exe
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.deps.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csprojAssemblyReference.cache
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.xml
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CopyComplete
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Desktop\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\angular.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package-lock.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.app.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.spec.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.exe
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.deps.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csprojAssemblyReference.cache
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.xml
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CopyComplete
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\SSIVALAS\Downloads\Project (1)\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\angular.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package-lock.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\package.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.app.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\front\tsconfig.spec.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.exe
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.deps.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\KanbanBoard.pdb
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\dotnet-ef.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csprojAssemblyReference.cache
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\staticwebassets\KanbanBoard.StaticWebAssets.xml
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.csproj.CopyComplete
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.dll
+C:\Users\LCHAKKA\Downloads\Backend\Backend\Project\KanbanBoardProject\obj\Debug\netcoreapp3.0\KanbanBoard.pdb

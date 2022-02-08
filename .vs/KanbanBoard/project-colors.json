@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43a3e3f7-8d3d-45eb-8342-24d393ba2608": {
+      "ProjectGuid": "43a3e3f7-8d3d-45eb-8342-24d393ba2608",
+      "DisplayName": "KanbanBoard",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

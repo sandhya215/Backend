@@ -1,0 +1,102 @@
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\appsettings.Development.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\appsettings.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\front\angular.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\front\package-lock.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\front\package.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\front\tsconfig.app.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\front\tsconfig.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\front\tsconfig.spec.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.exe
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.deps.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.runtimeconfig.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\ref\KanbanBoard.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.pdb
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\dotnet-ef.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Npgsql.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\scopedcss\bundle\KanbanBoard.styles.css
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.csproj.CopyComplete
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\ref\KanbanBoard.dll
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.pdb
+C:\Users\HP\Downloads\KanbanBoardProject (4)\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\appsettings.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\front\angular.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\front\package-lock.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\front\package.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\front\tsconfig.app.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\front\tsconfig.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\front\tsconfig.spec.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.exe
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.deps.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\ref\KanbanBoard.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\KanbanBoard.pdb
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\dotnet-ef.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Npgsql.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\scopedcss\bundle\KanbanBoard.styles.css
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\staticwebassets\KanbanBoard.StaticWebAssets.Manifest.cache
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.RazorTargetAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\ref\KanbanBoard.dll
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.pdb
+C:\Users\HP\OneDrive\Desktop\Phase-2\KanbanBoardProject\obj\Release\net5.0\KanbanBoard.genruntimeconfig.cache
